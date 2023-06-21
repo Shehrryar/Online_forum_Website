@@ -1,0 +1,3 @@
+
+
+ErrorDocument 404 http://localhost/projects/oline_furm/admin/ad_404.html
